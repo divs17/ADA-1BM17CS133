@@ -34,3 +34,5 @@ int main()
 	printf(" no of comparisions=%d",ksmall(a,n));
 }
 
+array=[1,3,5,7,9]
+comparions=10
